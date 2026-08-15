@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Credentials
+credentials.json
+service-account.json
+*.pem
+
+# Data
+*.csv
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
